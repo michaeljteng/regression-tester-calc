@@ -1,0 +1,12 @@
+Testing '3 ^ 4', expecting 81.000000
+81.000000
+Testing '2 + 5', expecting 7.000000
+7.000000
+Testing '31 / 4', expecting 0.666667
+3.000000
+Testing '6 * 8', expecting 48.000000
+6.000000
+Testing '10 - 13', expecting -3.000000
+0.769231
+Testing '9 % 7', expecting 2.000000
+2.000000
